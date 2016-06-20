@@ -6,7 +6,7 @@ import Foundation
 //    // implementation
 //}
 
-func celsiusFromFahrenhet(fahrenheit: Double) -> Double {
+func celsiusFromFahrenheit(fahrenheit: Double) -> Double {
     let celsius = (fahrenheit - 32.0) * (5/9)
     return celsius
 }

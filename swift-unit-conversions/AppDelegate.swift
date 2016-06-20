@@ -13,8 +13,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         print(fahrenheitFromCelsius(0.0))
         print(fahrenheitFromCelsius(100.0))
-        print(celsiusFromFahrenhet(98.6))
-        print(celsiusFromFahrenhet(72.0))
+        print(celsiusFromFahrenheit(98.6))
+        print(celsiusFromFahrenheit(72.0))
         print(radiansFromDegrees(90.0))
         print(radiansFromDegrees(360.0))
         print(degreesFromRadians(M_PI))
